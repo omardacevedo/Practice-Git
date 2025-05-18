@@ -1,0 +1,36 @@
+[33mcommit a912c99260a826dc1b6dd518490242490523059b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 657bf09 6491cd2
+Author: Danilo Acevedo <omaracevedo785@gmail.com>
+Date:   Sun May 18 11:22:22 2025 +0200
+
+    Se modifico el nombre de la receta
+
+[33mcommit 657bf09131a761b82643ba270745a50388a62cca[m
+Author: Danilo Acevedo <omaracevedo785@gmail.com>
+Date:   Sun May 18 11:21:13 2025 +0200
+
+     Se ajusta el nombre de la receta
+
+[33mcommit 6491cd244035cacb222b18d5ce647c1e4497fe99[m[33m ([m[1;31mrepositorioRemoto/master[m[33m, [m[1;31mrepositorioRemoto/HEAD[m[33m)[m
+Author: Danilo Acevedo <omaracevedo785@gmail.com>
+Date:   Sun May 18 11:17:27 2025 +0200
+
+     Se ajusta el numero de personas en receta
+
+[33mcommit 89b3654554c202784702593074d35c80a391bf2b[m[33m ([m[1;31mrepositorioRemoto/test[m[33m, [m[1;31mrepositorioRemoto/main[m[33m, [m[1;32mtest[m[33m, [m[1;32mmain[m[33m)[m
+Author: Danilo Acevedo <omaracevedo785@gmail.com>
+Date:   Sun May 18 00:45:13 2025 +0200
+
+    Se incluye receta Mexicana
+
+[33mcommit 7fd9b867963bdceda79c9c204a76de9dc7c4a34a[m
+Author: Danilo Acevedo <omaracevedo785@gmail.com>
+Date:   Sun May 18 00:38:42 2025 +0200
+
+    Se modifica ruta de imagen en receta
+
+[33mcommit d3f1bccd93f18bb29ca64314ab9afe8cf0f429fc[m
+Author: Danilo Acevedo <omaracevedo785@gmail.com>
+Date:   Sun May 18 00:32:22 2025 +0200
+
+    nuevo mensaje
